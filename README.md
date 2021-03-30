@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![madorica](https://circleci.com/gh/madorica/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/madorica/DevOps_Microservices)
 
 ## Project Overview
 
